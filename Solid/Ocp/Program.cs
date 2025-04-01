@@ -22,4 +22,4 @@ namespace Ocp
             Console.ReadLine();
         }
     }
-}
+} 
