@@ -18,7 +18,7 @@ Entidades de software (classes, módulos, funções, etc.) devem estar abertas para
 Objetos de uma classe derivada devem poder substituir objetos de uma classe base sem alterar a funcionalidade do programa. Em outras palavras, uma subclasse deve ser substituível por sua superclasse.
 
 ## 4. Interface Segregation Principle (ISP)
-Os clientes não devem ser forçados a depender de interfaces que não utilizam. Em vez de uma interface única e abrangente, é melhor criar várias interfaces específicas para cada conjunto de funcionalidades.
+As classes não devem ser forçadas a depender de métodos que não utilizam. Em vez de uma interface única e abrangente, é melhor criar várias interfaces específicas para cada conjunto de funcionalidades.
 
 ## 5. Dependency Inversion Principle (DIP)
 Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações. Além disso, abstrações não devem depender de detalhes. Detalhes devem depender de abstrações.
