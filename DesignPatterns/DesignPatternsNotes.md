@@ -17,3 +17,7 @@ Definem como trabalhar com objetos e classes em estruturas maiores e complexas, 
 ### Comportamental
 
 Trabalham com a comunicação eficiente e designam as responsabilidades comuns aos objetos.
+
+## Link de Referência
+
+- [Refatoração de Código](https://refactoring.guru/pt-br/design-patterns/catalog)
